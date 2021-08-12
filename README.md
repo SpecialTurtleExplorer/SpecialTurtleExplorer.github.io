@@ -1,2 +1,2 @@
-# SpecialTurtleExplorer.github.io
+# Владислав Ростовский
 Уроки от Андрея
